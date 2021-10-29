@@ -1,0 +1,2 @@
+# R5T.T0079
+IServiceCollectionBuilder and IServiceProviderBuilder interface definitions and default implementations.
