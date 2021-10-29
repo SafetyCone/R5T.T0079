@@ -1,0 +1,3 @@
+R5T.T0079.Construction - Construction project for IServiceCollectionBuilder and IServiceProviderBuilder interface definitions and default implementations..
+
+GOALS:
