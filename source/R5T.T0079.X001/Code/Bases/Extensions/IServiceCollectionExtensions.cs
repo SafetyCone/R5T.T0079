@@ -2,7 +2,7 @@ using System;
 
 using R5T.T0079;
 
-using IServiceCollection = R5T.T0069.IServiceCollection;
+using IServiceCollection = R5T.T0061.IServiceCollection;
 
 
 namespace System

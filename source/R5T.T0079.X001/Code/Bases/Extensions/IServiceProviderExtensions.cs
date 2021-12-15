@@ -2,7 +2,7 @@
 
 using R5T.T0079;
 
-using IServiceProviderExtensionMethodBase = R5T.T0069.IServiceProvider;
+using IServiceProviderExtensionMethodBase = R5T.T0061.IServiceProvider;
 
 
 namespace System
